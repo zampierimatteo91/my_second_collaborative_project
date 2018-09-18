@@ -18,4 +18,4 @@ No play makes Astudent a very dull boy!!!
 Before merging the two branches, AStudent
 writes a very nice conclusion for the document
 and commits it.
-*PLACE HOLDER: (ASTUDENT or BSTUDENT)'S TEXT*
+CIAOCIAO
