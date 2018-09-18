@@ -13,7 +13,7 @@ very nice text, that copes very nicely with
 what BStudent is about to write. This is why 
 he is creating a new branch and writing 
 his text here. 
-*PLACE HOLDER: ASTUDENT'S TEXT*
+No play makes Astudent a very dull boy!!!
 
 Before merging the two branches, AStudent
 writes a very nice conclusion for the document
